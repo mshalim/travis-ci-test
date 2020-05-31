@@ -1,0 +1,23 @@
+{
+  "name": "travis-ci-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mshalim/travis-ci-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mshalim/travis-ci-test/issues"
+  },
+  "homepage": "https://github.com/mshalim/travis-ci-test#readme",
+  "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "jest": "^26.0.1"
+  }
+}
